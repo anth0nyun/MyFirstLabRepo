@@ -1,3 +1,8 @@
 Hello World!
 
-I love food <3
+I love coding
+
+# Software Engineering Goals
+
+
+
